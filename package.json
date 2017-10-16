@@ -1,0 +1,24 @@
+{
+  "name": "bamazon",
+  "version": "1.0.0",
+  "description": "A \"knockoff\" and simplified version of Amazon.com using mySQL",
+  "main": "bamazon.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LizMasoudi/bamazon.git"
+  },
+  "author": "LM",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LizMasoudi/bamazon/issues"
+  },
+  "homepage": "https://github.com/LizMasoudi/bamazon#readme",
+  "dependencies": {
+    "ascii-table": "0.0.9",
+    "inquirer": "^3.3.0",
+    "mysql": "^2.15.0"
+  }
+}
